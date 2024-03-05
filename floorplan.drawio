@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T17:48:04.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="B4tSLdRSP8Rta61_2ZW_" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T17:59:03.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wQUWZu_e4_3zvmZpqiZZ" version="24.0.1" type="github">
   <diagram name="Page-1" id="cr1Za1uVQgATXjZ6iJ6d">
     <mxGraphModel dx="1077" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="-M64CqVJRw943yaDAng4-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="273" y="160" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-M64CqVJRw943yaDAng4-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;rotation=90;" parent="1" vertex="1">
+        <mxCell id="-M64CqVJRw943yaDAng4-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;rotation=90;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="220" y="155" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-M64CqVJRw943yaDAng4-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;rotation=0;" parent="1" vertex="1">
@@ -184,7 +184,7 @@
         <mxCell id="-M64CqVJRw943yaDAng4-58" value="37-602" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="275" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-M64CqVJRw943yaDAng4-59" value="37-602B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-M64CqVJRw943yaDAng4-59" value="37-602b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="175" y="385" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-M64CqVJRw943yaDAng4-60" value="37-626N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -208,7 +208,7 @@
         <mxCell id="-M64CqVJRw943yaDAng4-67" value="37-664k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="335" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-M64CqVJRw943yaDAng4-68" value="37-626A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-M64CqVJRw943yaDAng4-68" value="37-626a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="840" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-M64CqVJRw943yaDAng4-69" value="37-524" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -327,6 +327,9 @@
         </mxCell>
         <mxCell id="G25YqJeJ3StQM15O_co6-43" value="E" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="276.5" y="617" width="17" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G25YqJeJ3StQM15O_co6-44" value="&lt;h1&gt;Instructions/Notes&lt;/h1&gt;&lt;p&gt;- Drawing not at all to scale.&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Order of letters in rooms matches existing room letters where possible, otherwise random-ish.&lt;/p&gt;&lt;p&gt;- A desk is identified by its room number followed by the letter on the desk, for example 37-624E is my desk (&lt;font color=&quot;#66b2ff&quot;&gt;blue box&lt;/font&gt; marked as an example). Another example would be 37-626aA on the top right. The 37-626 cubicles have no additional letter.&lt;/p&gt;&lt;p&gt;- A red letter means the occupant will not be moving, so &lt;b&gt;you should not put those desks in your preferences&lt;/b&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="406.5" y="553" width="293.5" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
