@@ -313,7 +313,7 @@
         <mxCell id="oSpyv27FBxu9WC1x9Rb_-36" value="Kiyoshi&lt;div&gt;Masui&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="996" y="595.5" width="70" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="oSpyv27FBxu9WC1x9Rb_-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="oSpyv27FBxu9WC1x9Rb_-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1060" y="578" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oSpyv27FBxu9WC1x9Rb_-38" value="Visitor&lt;div&gt;Office&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -389,7 +389,7 @@
           <mxGeometry x="469" y="193.5" width="70" height="55" as="geometry" />
         </mxCell>
         <mxCell id="oSpyv27FBxu9WC1x9Rb_-62" value="Ed&lt;div&gt;Bertschinger&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="535" y="193.5" width="70" height="55" as="geometry" />
+          <mxGeometry x="533" y="193.5" width="70" height="55" as="geometry" />
         </mxCell>
         <mxCell id="oSpyv27FBxu9WC1x9Rb_-63" value="Paul&lt;div&gt;Schechter&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="599" y="193.5" width="70" height="55" as="geometry" />
