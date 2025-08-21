@@ -415,6 +415,9 @@
         <mxCell id="GI3JFEG87Ll8kgwHtmlm-4" value="&lt;font style=&quot;font-size: 6px; color: rgb(142, 142, 142);&quot;&gt;(Temporary arrangement)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="417.75" y="485" width="98.5" height="10.5" as="geometry" />
         </mxCell>
+        <mxCell id="GI3JFEG87Ll8kgwHtmlm-5" value="37-626c" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="409" y="377.69" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
