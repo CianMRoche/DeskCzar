@@ -50,10 +50,10 @@
           <mxGeometry x="400" y="160" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-M64CqVJRw943yaDAng4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="930" y="300" width="90" height="50" as="geometry" />
+          <mxGeometry x="970" y="300" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-M64CqVJRw943yaDAng4-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="969" y="350" width="50" height="50" as="geometry" />
+          <mxGeometry x="930" y="350" width="89" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-M64CqVJRw943yaDAng4-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="530" y="160" width="60" height="40" as="geometry" />
@@ -263,10 +263,10 @@
           <mxGeometry x="898.5" y="170" width="17" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G25YqJeJ3StQM15O_co6-37" value="&lt;font style=&quot;color: rgb(255, 39, 6);&quot;&gt;A&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="985.5" y="362" width="17" height="30" as="geometry" />
+          <mxGeometry x="966" y="362" width="17" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G25YqJeJ3StQM15O_co6-38" value="&lt;font color=&quot;#ff0303&quot;&gt;B&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="941.5" y="360" width="17" height="30" as="geometry" />
+          <mxGeometry x="941.5" y="312.25" width="17" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G25YqJeJ3StQM15O_co6-44" value="&lt;h1&gt;Instructions/Notes&lt;/h1&gt;&lt;p&gt;- Drawing not at all to scale.&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Available desks in &lt;font style=&quot;color: light-dark(rgb(140, 178, 110), rgb(237, 237, 237));&quot;&gt;green&lt;/font&gt;&amp;nbsp;(not Mar(k)burg). Members of the current round who might be moving are marked in &lt;font style=&quot;color: rgb(255, 217, 102);&quot;&gt;yellow&lt;/font&gt;, feel free to use those desks on your list too in case they end up moving&lt;/p&gt;&lt;p&gt;- Order of letters in rooms matches existing room letters where possible, otherwise random-ish.&lt;/p&gt;&lt;p&gt;- A desk is identified by its room number followed by the letter on the desk, for example 37-624E is Cian&#39;s desk (&lt;font color=&quot;#66b2ff&quot;&gt;blue box&lt;/font&gt; marked as an example). Another example would be 37-626aA on the top right. The 37-626&amp;lt;X&amp;gt; cubicles in the Florida Keys have no additional letter.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 37-664kB is marked &quot;LIGO&quot;. This is a workspace for anyone from LIGO who is in the building. First come, first served amongst LIGO people.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="496" width="960" height="196" as="geometry" />
@@ -308,7 +308,7 @@
           <mxGeometry x="155" y="151" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G25YqJeJ3StQM15O_co6-71" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;LIGO&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="913.5" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="913.5" y="292.02" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G25YqJeJ3StQM15O_co6-78" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Haochen W&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="151" width="60" height="30" as="geometry" />
@@ -320,10 +320,10 @@
           <mxGeometry x="675" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G25YqJeJ3StQM15O_co6-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="930" y="350" width="40" height="50" as="geometry" />
+          <mxGeometry x="930" y="300" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G25YqJeJ3StQM15O_co6-84" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;C&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="961.75" y="312.5" width="17" height="30" as="geometry" />
+          <mxGeometry x="985.5" y="312.5" width="17" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ybetB9kUVejNzfLUrMQ-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Alex Y&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="204.5" y="241" width="60" height="30" as="geometry" />
@@ -353,7 +353,7 @@
           <mxGeometry x="961.75" y="182" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ybetB9kUVejNzfLUrMQ-10" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Laurel W&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="970" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="920" y="342.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5bMKxF3V4dhGkYbDCoJw-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Chris L&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="388" y="212" width="60" height="30" as="geometry" />
